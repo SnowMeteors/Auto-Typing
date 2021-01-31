@@ -1,4 +1,6 @@
 　　本项目是基于python实现的自动打字，测试的打字网链接如下:http://www.zaixiandazi.com/
+　　截止2021-1-31，我依然是榜首
+　　<img src="https://cdn.jsdelivr.net/gh/SnowMeteors/Resources/img/time/20210131190942.png"/>
 ## 环境依赖
 python >= 3.7
 浏览器:chrome
